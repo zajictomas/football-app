@@ -1,0 +1,12 @@
+.player-delete-button {
+    cursor: pointer;
+    background: transparent;
+    border: none;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.player-delete-button:hover {
+    font-weight: 900;
+    color: white;
+}

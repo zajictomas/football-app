@@ -1,0 +1,8 @@
+.reload-players-button {
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    padding: 5px 15px;
+    margin-left: 15px;
+    cursor: pointer;
+}
